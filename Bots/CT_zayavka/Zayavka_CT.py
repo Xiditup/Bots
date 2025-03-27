@@ -21,8 +21,8 @@ BOT_TOKEN = '7933619829:AAFtJ1eCfnn5VXdJSQf7S15-vx6-yA9jvvg'
 YOUR_USER_ID = 5929692940
 
 # Абсолютные пути
-DB_PATH = '/root/Zayavka/BD/BD/join_requests.db'
-JSON_FILE = '/root/Zayavka/BD/BD/CT.json'
+DB_PATH = '/root/Bots/Bots/BD/join_requests.db'
+JSON_FILE = '/root/Bots/Bots/BD/CT.json'
 
 # Глобальные переменные
 total_requests = 0
