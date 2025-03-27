@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 TOKEN = '7780386252:AAHqzrXWK0QhA3GdS1MBTaSVqQcPoNrcmdA'
 
 # Путь к файлу на сервере
-FILE_PATH = '/root/Zayavka/BD/BD/join_requests.db'  # Укажите путь к вашему файлу
+FILE_PATH = '/root/Bots/Bots/BD/join_requests.db'  # Укажите путь к вашему файлу
 
 # ID доверенного лица (замените на реальный ID пользователя)
 TRUSTED_USER_ID = 7935760590  # Укажите ID пользователя, которому разрешено получать файл
